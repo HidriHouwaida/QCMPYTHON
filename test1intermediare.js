@@ -14,3 +14,11 @@ function test4()
 {
     window.open('test4question1intermediare.html','_self',false)
 }
+function test5()
+{
+    window.open('test5question1intermediare.html','_self',false)
+}
+function test6()
+{
+    window.open('test6question1intermediare.html','_self',false)
+}

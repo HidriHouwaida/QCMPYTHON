@@ -112,7 +112,7 @@ if(isset($_POST["signin"]))
         <div class="panel left-panel">
           <div class="content">
             <button class="btn transparent" id="sign-up-btn">
-              Sign up
+              Créer Un Compte
             </button>
           </div>
           <img src="images/background.jpg" class="image" alt="" />
