@@ -22,3 +22,7 @@ function test6()
 {
     window.open('test6question1intermediare.html','_self',false)
 }
+function test7()
+{
+    window.open('test7question1intermediare.html','_self',false)
+}
