@@ -12,12 +12,12 @@ function button2()
 }
 function button3()
 {
-  document.getElementById('button2').style.backgroundColor='green';
+  document.getElementById('button3').style.backgroundColor='green';
   window.open('test3question5expert.html','_self',false)
 }
 function button4()
 {
-  document.getElementById('button2').style.backgroundColor='red';
+  document.getElementById('button4').style.backgroundColor='red';
   var audio=new Audio('song/faux.mp3')
   audio.play()
 }
