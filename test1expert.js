@@ -10,3 +10,7 @@ function test3()
 {
     window.open('test3question1expert.html','_self',false)
 }
+function test4()
+{
+    window.open('test4question1expert.html','_self',false)
+}
