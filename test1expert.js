@@ -18,3 +18,7 @@ function test5()
 {
     window.open('test5question1expert.html','_self',false)
 }
+function test6()
+{
+    window.open('test6question1expert.html','_self',false)
+}
